@@ -1,12 +1,11 @@
 ###  About me :octocat: 
 -------------------------
 
+:statue_of_liberty: I am Evgenii Demchenko, a DevOps Engineer specializing in automating the product lifecycle from design and development to deployment.
 
-:statue_of_liberty:  I am Evgenii Demchenko, a DevOps Engineer. I am engaged in automation of product lifecycle (including designing, development, deployment). 
+:steam_locomotive:  My expertise encompasses a range of technologies, including Jenkins, Kubernetes, Docker, Java, Swift, Groovy, and SQL. With these tools, I streamline and optimize the development and deployment processes, ensuring efficient and reliable delivery of high-quality software solutions.
 
-:steam_locomotive:  My focus areas are Jenkins, Kubernetes, Docker, Java, Swift, Groovy and SQL.
-
-:suspect:  I enjoy developing apps and services. Also I am writing articles for IT websites.
+:suspect:  Beyond my technical endeavors, I find great satisfaction in creating innovative applications and services. Additionally, I contribute to the IT community by sharing my knowledge and insights through writing articles for prominent IT websites, fostering collaboration and knowledge exchange within the industry.
 
 
 -------------------------
