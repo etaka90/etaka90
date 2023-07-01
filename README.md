@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Inst"/>
  </a>
  <a href="https://hackernoon.com/u/evgeniidemchenko">
-   <img src="https://brand.hackernoon.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2F71841448-8606-479a-a45c-7c5993fd826e%2Fimages%2F2842d221-0325-4cbf-9717-8b4953c6e8e9.png&w=828&q=80" width="30%" 
-     height="30%"/>
+   <img src="https://spectrem.com/LibRepository/da989268-85e5-4fc0-b45a-132b30b3e3a2.png" width="20%" 
+     height="20%"/>
  </a>
 </div>
 
