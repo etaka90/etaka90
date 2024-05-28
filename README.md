@@ -1,11 +1,11 @@
 ###  About me :octocat: 
 -------------------------
 
-:statue_of_liberty: I am Evgenii Demchenko, a DevOps Engineer specializing in automating the product lifecycle from design and development to deployment.
+:statue_of_liberty: DevOps
 
-:steam_locomotive:  My expertise encompasses a range of technologies, including Jenkins, Kubernetes, Docker, Java, Swift, Groovy, and SQL. With these tools, I streamline and optimize the development and deployment processes, ensuring efficient and reliable delivery of high-quality software solutions.
+:steam_locomotive:  Technologies, Kubernetes, Docker, Java, Swift, Groovy
 
-:suspect:  Beyond my technical endeavors, I find great satisfaction in creating innovative applications and services. Additionally, I contribute to the IT community by sharing my knowledge and insights through writing articles for prominent IT websites, fostering collaboration and knowledge exchange within the industry.
+:suspect:  Great satisfaction in creating innovative applications and services. Writing articles in the industry.
 
 
 -------------------------
@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Inst"/>
  </a>
  <a href="https://hackernoon.com/u/evgeniidemchenko">
-   <img src="https://spectrem.com/LibRepository/da989268-85e5-4fc0-b45a-132b30b3e3a2.png" width="20%" 
-     height="20%"/>
+   <img src="https://toyourheartscontent.co.uk/wp-content/uploads/2020/01/Hackernoon.jpg" width="10%" 
+     height="10%"/>
  </a>
 </div>
 
