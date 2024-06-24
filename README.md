@@ -1,7 +1,7 @@
 ###  About me :octocat: 
 -------------------------
 
-:statue_of_liberty: DevOps
+:statue_of_liberty: DevOps, Blockchain, Etakoin
 
 :steam_locomotive:  Technologies, Kubernetes, Docker, Java, Swift, Groovy
 
